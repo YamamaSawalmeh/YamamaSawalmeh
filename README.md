@@ -10,7 +10,7 @@ I build software end to end, from embedded firmware and IoT devices to web platf
 |---------|-------------|-------|
 | 🐝 [**BeeGuard**](https://github.com/YamamaSawalmeh/beeguard_Project) | Graduation project: smart beehive monitoring with ESP32 sensors, on-device hornet detection (ESP32-CAM) and a Flutter app | Flutter · Firebase · ESP32 · TensorFlow Lite |
 | 📖 [**Rattil (رتّل)**](https://github.com/YamamaSawalmeh/rattil) | Platform for managing Quran memorization circles, with admin, teacher and student dashboards | PHP · MySQL · JavaScript · React |
-| 🎓 [**Masarak (مسارك)**](https://github.com/YamamaSawalmeh/ML) | AI university and major recommender: reads the Tawjihi certificate with OCR and suggests majors | Python · Flask · scikit-learn · OCR |
+| 🎓 [**Masarak (مسارك)**](https://github.com/YamamaSawalmeh/ML) | AI major recommender for Tawjihi students: OCR certificate reading plus an ensemble of ML models (73% accuracy, 86% top-5) | Python · scikit-learn · Flask · OCR |
 | 🖼️ [**OpenCV Image Processing**](https://github.com/YamamaSawalmeh/opencv-image-processing) | Image filters, noise removal, CLAHE and edge detection, plus a live camera app with cartoon/mosaic filters and face detection | Python · OpenCV · Tkinter |
 | 🌊 [**Flood Alert**](https://github.com/YamamaSawalmeh/floodAlertModel) | AI street-level flood warning prototype for Nablus (hackathon) | Flutter · AI |
 | 🗺️ [**Wasel Palestine**](https://github.com/YamamaSawalmeh/Wasel_pal) | REST API for checkpoint intelligence, incident reporting and route estimation | Python · REST API |
