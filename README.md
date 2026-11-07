@@ -1,6 +1,6 @@
 ## Hi, I'm Yamama 👋
 
-**Computer Engineering graduate – An-Najah National University**
+**Computer Engineering student (final semester) – An-Najah National University · Graduating January 2027**
 
 I build software end to end, from embedded firmware and IoT devices to web platforms, backend APIs and machine-learning models.
 
